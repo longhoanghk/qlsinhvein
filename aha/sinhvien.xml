@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<thongtin>
+  <sinhvien>
+    <masv>sv02</masv>
+    <hoten>Nguyễn Văn Nam</hoten>
+    <ngaysinh>17/03/2000</ngaysinh>
+    <quequan>Hà Nội </quequan>
+    <diem_tin_hoc>8</diem_tin_hoc>
+  </sinhvien>
+  <sinhvien>
+    <masv>sv03</masv>
+    <hoten>Nguyễn Thị Thu Hoài</hoten>
+    <ngaysinh>02/01/2000</ngaysinh>
+    <quequan>Nam Định </quequan>
+    <diem_tin_hoc>7.5</diem_tin_hoc>
+  </sinhvien>
+  <sinhvien>
+    <masv>sv04</masv>
+    <hoten>Nguyễn Xuân Nam</hoten>
+    <ngaysinh>03/07/2000</ngaysinh>
+    <quequan>Hải Dương </quequan>
+    <diem_tin_hoc>9</diem_tin_hoc>
+  </sinhvien>
+  <sinhvien>
+    <masv>sv05</masv>
+    <hoten>Nguyễn Thị Bích Liên</hoten>
+    <ngaysinh>12/02/2000</ngaysinh>
+    <quequan>Hà Nội</quequan>
+    <diem_tin_hoc>9</diem_tin_hoc>
+  </sinhvien>
+  <sinhvien>
+    <masv>SV06</masv>
+    <hoten>Nguyễn Thế Hưng</hoten>
+    <ngaysinh>12/02/2000</ngaysinh>
+    <quequan>Hà Nội</quequan>
+    <diem_tin_hoc>9</diem_tin_hoc>
+  </sinhvien>
+  
+</thongtin>
